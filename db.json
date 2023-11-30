@@ -8,7 +8,8 @@
       "location": "Werchter",
      "date": "4-7 juli 2024",
       "time": "12:00",
-      "organisator": "Noël Steen"
+      "organisator": "Noël Steen",
+      "image": "https://i0.wp.com/www.visual-music.org/wp-content/uploads/2023/11/Rock-Werchter.png"
     },
     {
       "id":2,
@@ -18,7 +19,8 @@
       "location": "Kiewit, Hasselt",
       "date": "15-18 augustus 2024",
       "time": "11:00",
-      "organisator": "Chokri Mahassine"
+      "organisator": "Chokri Mahassine",
+      "image": "https://www.99festivals.com/wp-content/uploads/Pukkelpop-2023.png"
     },
     {
       "id":3,
@@ -28,7 +30,8 @@
       "location": "Boom",
       "date": "19-21 juli en 26-28 juli 2024",
       "time": "11:00",
-      "organisator": "Weareone"
+      "organisator": "Weareone",
+      "image": "https://images.prismic.io/tomorrowland/ec2bc29c-ed4c-4063-9c17-0dec81464780_TLBE24-THEME-SOCIAL+COVERS-1500x1000.png"
     }
   ]
 }
